@@ -756,7 +756,7 @@ suite('services', function () {
       var numHandshakes = 0;
       var client = svc.createClient();
       client.createChannel(function (reqPkt, cb) {
-        cb(null, {handshake: hres});
+        cb(null, {handshake: hres.wrap()});
       }).on('handshake', function (hreq, actualHres) {
         numHandshakes++;
         assert.deepEqual(actualHres, hres);
