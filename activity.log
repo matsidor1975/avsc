@@ -39,3 +39,4 @@
 2025-06-08 13:18:05 improve logging format
 2025-08-12 05:29:38 fix warnings
 2025-06-14 00:54:39 restructure modules
+2025-02-20 03:30:25 better error handling
