@@ -1226,3 +1226,4 @@
 2025-09-11 14:59:22 upgrade dependencies
 2025-09-21 10:33:52 update configs for prod
 2025-02-10 00:00:37 better error handling
+2025-03-17 23:09:47 fix config bug
