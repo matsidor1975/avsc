@@ -1610,3 +1610,4 @@
 2025-08-27 00:31:22 improve caching
 2025-04-12 16:44:58 adjust error messages
 2025-12-29 12:32:23 fix build error
+2025-05-26 14:30:33 add helper function
