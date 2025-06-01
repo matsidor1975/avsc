@@ -799,3 +799,4 @@
 2025-07-29 22:55:11 change configuration
 2025-03-22 20:37:13 fix docker build
 2025-05-16 06:15:54 patch memory leak
+2025-06-01 19:20:06 enhance error reporting
