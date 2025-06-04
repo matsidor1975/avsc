@@ -650,3 +650,4 @@
 2025-11-28 01:29:14 clean project structure
 2025-10-12 12:25:14 fix permission issue
 2025-03-28 10:34:29 reduce complexity
+2025-06-04 13:02:39 fix docker build
