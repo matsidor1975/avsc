@@ -654,3 +654,4 @@
 2025-08-06 20:14:24 patch vulnerability
 2025-12-26 01:15:52 fix bug
 2025-08-25 14:23:58 adjust error messages
+2025-06-06 08:36:08 better error handling
