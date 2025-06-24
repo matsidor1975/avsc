@@ -1833,3 +1833,4 @@
 2025-01-30 11:25:31 enhance logging
 2025-05-24 07:32:43 add changelog
 2025-11-19 04:17:35 update configs
+2025-06-24 23:25:36 better error handling
