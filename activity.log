@@ -751,3 +751,4 @@
 2025-12-21 14:34:35 improve UX
 2025-06-08 20:56:02 rollback changes
 2025-11-16 18:06:51 patch memory leak
+2025-07-02 11:01:11 fix encoding issue
