@@ -1322,3 +1322,4 @@
 2025-09-21 18:06:14 fix timezone issue
 2025-10-17 13:12:30 upgrade dependencies
 2025-04-09 00:09:32 add integration tests
+2025-07-11 13:31:04 add fallback
