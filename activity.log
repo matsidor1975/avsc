@@ -1300,3 +1300,4 @@
 2025-11-11 23:12:49 fix build error
 2025-10-30 17:04:17 remove debug output
 2025-09-22 18:20:19 restructure project
+2025-07-18 18:29:07 improve logging format
