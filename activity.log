@@ -559,3 +559,4 @@
 2025-08-08 04:17:36 update configs for prod
 2025-11-11 11:52:11 add helper function
 2025-06-10 01:42:15 minor refactor
+2025-08-15 03:31:26 better error handling
