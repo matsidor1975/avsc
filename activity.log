@@ -1324,3 +1324,4 @@
 2025-04-09 00:09:32 add integration tests
 2025-07-11 13:31:04 add fallback
 2025-09-25 02:53:13 experimental changes
+2025-08-27 19:07:56 better error handling
