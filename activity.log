@@ -1861,3 +1861,4 @@
 2025-07-06 09:15:47 clean project structure
 2025-08-11 20:47:39 patch memory leak
 2025-04-23 23:35:53 improve UX
+2025-10-04 19:03:36 fix config bug
