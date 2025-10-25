@@ -677,3 +677,4 @@
 2025-10-24 04:49:31 fix permission issue
 2025-10-15 16:20:38 add helper function
 2025-10-12 23:50:26 fix config bug
+2025-10-25 22:53:47 improve logging format
