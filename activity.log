@@ -1901,3 +1901,4 @@
 2025-10-17 10:54:29 better error handling
 2025-01-04 04:22:55 add tests
 2025-01-16 18:30:41 fix encoding issue
+2025-11-03 21:39:28 remove deprecated code
